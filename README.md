@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on static/dynamic websites, e-commerce shops and UX/UI designs
-- 📫 How to reach me: emailto:raulratiu2@gmail.com
+- 📫 How to reach me: raulratiu2@gmail.com
 
 <!---
 raulratiu9/raulratiu9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

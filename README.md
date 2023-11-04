@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raulratiu9
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Redux
-- 💞️ I’m looking to collaborate on static/dynamic websites, e-commerce shops and UX/UI designs
+- 👀 Agile Software Engineer
+- 🌱 I’m currently improving all Web Engineering & Cloud skills
+- 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me: raulratiu2@gmail.com
 
 <!---
